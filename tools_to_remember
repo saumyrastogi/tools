@@ -1,0 +1,2 @@
+__builtin_popcount(number)-return number of set bits in the binary representation of the number.
+unique(v.begin(),v.end())- removes continuous duplicates from vector.

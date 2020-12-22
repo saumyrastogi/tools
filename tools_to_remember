@@ -5,3 +5,6 @@ unique(v.begin(),v.end())- removes continuous duplicates from vector.
 number<<k - left shift a number k times - 2^k * number
 
 number>>k -right shift a number k  - floor(number/2^k)
+
+bitset<sizeofbinarynumber> binary_string;
+size of binary string can be very large in bitset , by default value is zero.

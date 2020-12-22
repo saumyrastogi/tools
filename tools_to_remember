@@ -8,3 +8,4 @@ number>>k -right shift a number k  - floor(number/2^k)
 
 bitset<sizeofbinarynumber> binary_string;
 size of binary string can be very large in bitset and should be some fixed value, by default value is zero.
+binary_string.count() - returns the number of set bit in the string.

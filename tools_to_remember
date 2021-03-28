@@ -10,3 +10,5 @@ bitset<sizeofbinarynumber> binary_string;
 size of binary string can be very large in bitset and should be some fixed value, by default value is zero.
 binary_string.count() - returns the number of set bit in the string.
 binary_string can be treated as an array with every element either 0 or 1.
+
+find function on string is used to return index at which the sub string is present , else it return string::npos

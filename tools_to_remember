@@ -12,3 +12,4 @@ binary_string.count() - returns the number of set bit in the string.
 binary_string can be treated as an array with every element either 0 or 1.
 
 find function on string is used to return index at which the sub string is present , else it return string::npos
+next_permutation(arr,arr+n) return true and change original array with new array which is lexicographically greater than the previous one else returns false and arrange array in increasing order.
